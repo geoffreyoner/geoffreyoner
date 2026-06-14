@@ -1,16 +1,13 @@
-## Hi there 👋
+Hello, I am Geoffrey
 
-<!--
-**geoffreyoner/geoffreyoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently focusing on learning software development and building my foundational programming skills.
 
-Here are some ideas to get you started:
+Skills
+— HTML
+— CSS
+— JavaScript
+— Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+— Improving my understanding of web development and programming logic.
+— Java, React.js, Node.js.
