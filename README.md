@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a dedicated developer focused on mastering sof
 
 **Languages:**
 - JavaScript
+- Bash
 - Python
 - HTML
 - CSS
