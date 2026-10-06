@@ -36,11 +36,3 @@ Welcome to my GitHub profile! I'm a dedicated developer focused on mastering sof
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreyoner&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
-
----
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/geoffreyoner/geoffreyoner/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
