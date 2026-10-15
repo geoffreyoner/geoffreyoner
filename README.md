@@ -1,16 +1,79 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B9CFF,100:78E6D0&height=200&section=header&text=Goomys&fontSize=70&fontColor=F4F6FF&fontAlignY=38&desc=geoffreyoner&descAlignY=58&descAlign=50" alt="header" />
+</p>
 
-<!--
-**geoffreyoner/geoffreyoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developer who prefers building things that run on your own machine. I care about software that works offline, stays lightweight, and doesn't phone home.
+
+Most of what I build starts from a small annoyance — something that should exist but doesn't, or something that exists but is bloated. So I write my own.
+
+Currently learning **Java** for desktop application development, and exploring lightweight ML workloads with **ONNX** and **OpenCV**.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,bash,java,linux,git,sqlite,opencv,vscode&theme=dark&perline=6" alt="skills" />
+</p>
+
+---
+
+## Projects
+
+### LumaAttend
+Local face recognition attendance system. Uses OpenCV **YuNet** for detection and **SFace** for embedding — real inference, not mocked. Runs fully offline on Android, Linux, and Windows. Designed to work on modest hardware (tested on low-end Android devices).
+
+Kiosk mode and liveness detection are under active development.
+
+`Python` `Flask` `OpenCV` `SQLite` — 
+
+[Repository →](https://github.com/geoffreyoner/LumaAttend)
+
+### Goomys Ecosystem
+Telegram multi-bot framework with a web UI for managing and monitoring multiple bots from a single dashboard. Built to replace juggling separate bot instances.
+
+`Python` `Flask` — Repository Coming soon
+
+### Minecraft Utility Hub
+Web application combining SkinView3D rendering with Modrinth API integration for skin preview and mod browsing.
+
+`Python` `Flask` `JavaScript` — 
+
+[Repository →](https://github.com/geoffreyoner/Minecraft-Utility-Hub)
+
+---
+
+## Working Principles
+
+- **Local-first.** If it can run without a cloud service, it should.
+- **Modest hardware matters.** Code that only runs on a rented VPS isn't portable.
+- **Honest limitations.** Document what doesn't work before what does.
+- **Minimal dependencies.** Every library is an attack surface and a maintenance burden.
+
+---
+
+## Currently
+
+- **Building:** LumaAttend — refining kiosk mode and liveness detection
+- **Learning:** Java and desktop application architecture
+- **Exploring:** ONNX model integration for lightweight ML workloads
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://github.com/geoffreyoner"><img src="https://img.shields.io/badge/GitHub-geoffreyoner-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+</p>
+
+<p align="center">
+  <sub>Open to collaboration on any of the projects above. Reach out via GitHub issues or discussions.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B9CFF,100:78E6D0&height=120&section=footer" alt="footer" />
+</p>
