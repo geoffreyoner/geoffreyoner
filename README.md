@@ -22,31 +22,6 @@ Currently learning **Java** for desktop application development, and exploring l
 
 ---
 
-## Projects
-
-### LumaAttend
-Local face recognition attendance system. Uses OpenCV **YuNet** for detection and **SFace** for embedding — real inference, not mocked. Runs fully offline on Android, Linux, and Windows. Designed to work on modest hardware (tested on low-end Android devices).
-
-Kiosk mode and liveness detection are under active development.
-
-`Python` `Flask` `OpenCV` `SQLite` — 
-
-[Repository →](https://github.com/geoffreyoner/LumaAttend)
-
-### Goomys Ecosystem
-Telegram multi-bot framework with a web UI for managing and monitoring multiple bots from a single dashboard. Built to replace juggling separate bot instances.
-
-`Python` `Flask` — Repository Coming soon
-
-### Minecraft Utility Hub
-Web application combining SkinView3D rendering with Modrinth API integration for skin preview and mod browsing.
-
-`Python` `Flask` `JavaScript` — 
-
-[Repository →](https://github.com/geoffreyoner/Minecraft-Utility-Hub)
-
----
-
 ## Working Principles
 
 - **Local-first.** If it can run without a cloud service, it should.
