@@ -1,3 +1,9 @@
+## Me
+
+Hello everyone, I'm Goomys
+
+---
+
 ## About
 
 Developer who prefers building things that run on your own machine. I care about software that works offline, stays lightweight, and doesn't phone home.
@@ -34,8 +40,6 @@ Currently learning **Java** for desktop application development, and exploring l
 ---
 
 ## Contact
-
----
 
 <p align="center">
   <sub>Open to collaboration on any of the projects above. Reach out via GitHub issues or discussions.</sub>
