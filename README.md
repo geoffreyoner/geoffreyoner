@@ -1,48 +1,32 @@
-## Me
+<div align="center">
 
-Hello everyone, I'm Goomys
+# Hi, I'm **Goomys**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Solo+Developer;Building+Software+Script;Lightweight+%7C+Private+%7C+Minimal" alt="typing" />
+
+</div>
 
 ## About
 
-Developer who prefers building things that run on your own machine. I care about software that works offline, stays lightweight, and doesn't phone home.
+I am a software developer focused on building local-first applications.
 
-Most of what I build starts from a small annoyance — something that should exist but doesn't, or something that exists but is bloated. So I write my own.
-
-Currently learning **Java** for desktop application development, and exploring lightweight ML workloads with **ONNX** and **OpenCV**.
-
----
+My projects typically begin by identifying a gap: a tool that does not yet exist, or one that exists but is heavier than it needs to be. I build practical, lightweight alternatives that run well on modest hardware.
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,bash,java,linux,git,sqlite,opencv,vscode&theme=dark&perline=6" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,sqlite&theme=dark&perline=6" alt="skills" />
 </p>
 
----
+## Features
 
-## Working Principles
-
-- **Local-first.** If it can run without a cloud service, it should.
-- **Modest hardware matters.** Code that only runs on a rented VPS isn't portable.
-- **Honest limitations.** Document what doesn't work before what does.
-- **Minimal dependencies.** Every library is an attack surface and a maintenance burden.
-
----
-
-## Currently
-
-- **Building:** LumaAttend — refining kiosk mode and liveness detection
-- **Learning:** Java and desktop application architecture
-- **Exploring:** ONNX model integration for lightweight ML workloads
-
----
+- **[maclog-panel]** — Minimal macOS-terminal-style log panel for the web.
+- **[Minecraft-Utility-Hub]** — Player inspector, 3D skin viewer, PvP tier aggregation, and ready-to-use modpack presets.
+- **[chess-online]** — Multiplayer mini games platform.
 
 ## Contact
 
 <p align="center">
-  <sub>Open to collaboration on any of the projects above. Reach out via GitHub issues or discussions.</sub>
+  Open to collaboration on any of the projects above. <br/>
+  Reach out via <b>GitHub Issues</b> or <b>Discussions</b>.
 </p>
-
----
