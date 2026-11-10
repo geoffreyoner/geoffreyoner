@@ -8,9 +8,7 @@
 
 ## About
 
-I am a software developer focused on building local-first applications.
-
-My projects typically begin by identifying a gap: a tool that does not yet exist, or one that exists but is heavier than it needs to be. I build practical, lightweight alternatives that run well on modest hardware.
+i am a software developer focused on building local first, open source, etc.
 
 ## Tech Stack
 
